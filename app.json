@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ColorCode",
+    "slug": "ColorCode",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ColorCode"
+}
